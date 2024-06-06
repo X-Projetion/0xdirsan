@@ -61,10 +61,7 @@ optional arguments:
 Please note that 0xdirsan is provided for educational purposes only. Use of this program for unethical or illegal activities is not recommended. The developer is not responsible for any actions taken by users.
 
 <br>
-
-0xdirsan dikembangkan oleh X-Projetion, seorang pengembang perangkat lunak dengan fokus pada keamanan dan pengujian penetrasi. Anda dapat mengunjungi situs web X-Projetion.org untuk informasi lebih lanjut atau mengikuti Instagram X-Projetion untuk pembaruan terbaru.
-
-<p>0xdirsan dikembangkan oleh X-Projetion, seorang pengembang perangkat lunak dengan fokus pada keamanan dan pengujian penetrasi. Anda dapat mengunjungi situs web <a href="https://x-projetion.org/">X-Projetion.org</a> untuk informasi lebih lanjut atau mengikuti <a href="https://www.instagram.com/lutfifakee/">Instagram</a> X-Projetion untuk pembaruan terbaru.</p>
+<p>0xdirsan was developed by X-Projetion, a software developer with a focus on security and penetration testing. You can visit the website <a href="https://x-projetion.org/">X-Projetion.org</a> for more information or follow <a href="https://www.instagram. com/lutfifakee/">Instagram</a> X-Projetion for the latest updates.</p>
 
 <ul>
         <li>Situs Web: <a href="https://x-projetion.org/">X-Projetion.org</a></li>
