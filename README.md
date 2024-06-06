@@ -64,6 +64,6 @@ Please note that 0xdirsan is provided for educational purposes only. Use of this
 <p>0xdirsan was developed by X-Projetion, a software developer with a focus on security and penetration testing. You can visit the website <a href="https://x-projetion.org/">X-Projetion.org</a> for more information or follow <a href="https://www.instagram. com/lutfifakee/">Instagram</a> X-Projetion for the latest updates.</p>
 
 <ul>
-        <li>Situs Web: <a href="https://x-projetion.org/">X-Projetion.org</a></li>
+        <li>Website: <a href="https://x-projetion.org/">X-Projetion.org</a></li>
         <li>Instagram: <a href="https://www.instagram.com/lutfifakee/">@lutfifakee</a></li>
 </ul>
