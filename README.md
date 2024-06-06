@@ -1,8 +1,8 @@
 # 0xdirsan
 
-[![made-with-Python](https://img.shields.io/badge/made%20with-Python-blue.svg)](https://www.python.org/)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![issues](https://img.shields.io/github/issues/X-Projetion/0xdirsan?color=blue)](https://github.com/X-Projetion/0xdirsan/issues)
+[![made-with-Python](https://img.shields.io/badge/made%20with-Python-red.svg)](https://www.python.org/)
+[![license](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
+[![issues](https://img.shields.io/github/issues/X-Projetion/0xdirsan?color=red)](https://github.com/X-Projetion/0xdirsan/issues)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/X-Projetion/0xdirsan/main/0xdirsan.png" alt="0xdirsan" width="60%">
