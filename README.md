@@ -71,7 +71,7 @@ Please note that 0xdirsan is provided for educational purposes only. Use of this
 
 <ul>
         <li>Website: <a href="https://x-projetion.org/">X-Projetion.org</a></li>
-        <li>Instagram: <a href="https://pypi.org/project/0xdirsan/">PyPi</a></li>
+        <li>Pypi: <a href="https://pypi.org/project/0xdirsan/">0xdirsan</a></li>
         <li>Instagram: <a href="https://www.instagram.com/lutfifakee/">@lutfifakee</a></li>
     
 </ul>
