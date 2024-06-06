@@ -37,6 +37,7 @@ Follow these steps to install 0xdirsan :
 2. **Clone repositori**:
    ```sh
    pip install -r requirements.txt
+    ```
 
 ## Usage
 - python 0xdirsan.py -u <TARGET_URL>
@@ -55,7 +56,6 @@ optional arguments:
   -t THREADS, --threads THREADS
                         Number of threads (default 30)
 ```
-                        
 
 ## Disclaimer
 Please note that 0xdirsan is provided for educational purposes only. Use of this program for unethical or illegal activities is not recommended. The developer is not responsible for any actions taken by users.
