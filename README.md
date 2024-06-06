@@ -15,6 +15,7 @@
 ## Resources
 - [Feature](#feature)
 - [Installation](#installation)
+- [Pypi](#Pypi)
 - [Usage](#usage)
 - [Help](#help)
 - [Disclaimer](#Disclaimer)
@@ -38,6 +39,11 @@ Follow these steps to install 0xdirsan :
    ```sh
    pip install -r requirements.txt
     ```
+
+
+## Pypi Installation
+- pip install 0xdirsan
+
 
 ## Usage
 - python 0xdirsan.py -u <TARGET_URL>
