@@ -58,9 +58,15 @@ optional arguments:
                         
 
 ## Disclaimer
-The script provided is for educational purposes only, I am not responsible for your actions.
+Please note that 0xdirsan is provided for educational purposes only. Use of this program for unethical or illegal activities is not recommended. The developer is not responsible for any actions taken by users.
 
 <br>
-<a href="https://www.instagram.com/lutfifakee/" target="_blank" rel="noopener noreferrer">Follow</a> | <a href="https://x-projetion.org/" target="_blank" rel="noopener noreferrer">https://x-projetion.org/</a>
-    <br>
-Made by X-Projetion
+
+0xdirsan dikembangkan oleh X-Projetion, seorang pengembang perangkat lunak dengan fokus pada keamanan dan pengujian penetrasi. Anda dapat mengunjungi situs web X-Projetion.org untuk informasi lebih lanjut atau mengikuti Instagram X-Projetion untuk pembaruan terbaru.
+
+<p>0xdirsan dikembangkan oleh X-Projetion, seorang pengembang perangkat lunak dengan fokus pada keamanan dan pengujian penetrasi. Anda dapat mengunjungi situs web <a href="https://x-projetion.org/">X-Projetion.org</a> untuk informasi lebih lanjut atau mengikuti <a href="https://www.instagram.com/lutfifakee/">Instagram</a> X-Projetion untuk pembaruan terbaru.</p>
+
+<ul>
+        <li>Situs Web: <a href="https://x-projetion.org/">X-Projetion.org</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/lutfifakee/">@lutfifakee</a></li>
+</ul>
