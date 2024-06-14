@@ -62,16 +62,16 @@ optional arguments:
   -t THREADS, --threads THREADS
                         Number of threads (default 30)
 ```
+### Connect with me:
 
+- **Website:** [X-Projetion.org](https://x-projetion.org/)
+- **Pypi:** [0xdirsan](https://pypi.org/project/0xdirsan/)
+- **Instagram:** [@lutfifakee](https://www.instagram.com/lutfifakee/)
+  
 ## Disclaimer
 Please note that 0xdirsan is provided for educational purposes only. Use of this program for unethical or illegal activities is not recommended. The developer is not responsible for any actions taken by users.
 
 <br>
 <p>0xdirsan was developed by X-Projetion, a software developer with a focus on security and penetration testing. You can visit the website <a href="https://x-projetion.org/">X-Projetion.org</a> for more information or follow <a href="https://www.instagram. com/lutfifakee/">Instagram</a> X-Projetion for the latest updates.</p>
 
-<ul>
-        <li>Website: <a href="https://x-projetion.org/">X-Projetion.org</a></li>
-        <li>Pypi: <a href="https://pypi.org/project/0xdirsan/">0xdirsan</a></li>
-        <li>Instagram: <a href="https://www.instagram.com/lutfifakee/">@lutfifakee</a></li>
-    
-</ul>
+
