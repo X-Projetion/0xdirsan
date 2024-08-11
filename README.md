@@ -11,18 +11,17 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-pink.svg"></a>
   <a href="https://github.com/X-Projetion/split-files/issues"><img src="https://img.shields.io/github/issues/X-Projetion/split-files?color=pink"></a>
 </p>
-
+<p align="center">
+  • <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#pypi-installation">Installation via PyPI</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#help">Help</a> •
+  <a href="#disclaimer">Disclaimer</a> •
+  <a href="#license">License</a>
+</p>
 # 0xdirsan
 0xdirsan is a simple program designed to search for directories within the file system using brute-force with a given list of words.
-
-## Resources
-- [Feature](#feature)
-- [Installation](#installation)
-- [Pypi](#Pypi)
-- [Usage](#usage)
-- [Help](#help)
-- [Disclaimer](#Disclaimer)
-
 
 ## Feature
 - Uses multiple threads to speed up the search process.
