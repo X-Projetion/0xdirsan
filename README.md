@@ -1,13 +1,16 @@
-# 0xdirsan
-
-[![made-with-Python](https://img.shields.io/badge/made%20with-Python-pink.svg)](https://www.python.org/)
-[![license](https://img.shields.io/badge/license-MIT-pink.svg)](LICENSE)
-[![issues](https://img.shields.io/github/issues/X-Projetion/0xdirsan?color=pink)](https://github.com/X-Projetion/0xdirsan/issues)
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/X-Projetion/0xdirsan/main/0xdirsan.png" alt="0xdirsan" width="60%">
 </p>
 <h4 align="center">0xdirsan is a simple program designed to search for directories in the file system</h4>
+<p align="center">
+  <a href="https://goreportcard.com/report/github.com/X-Projetion/split-files/"><img src="https://goreportcard.com/badge/github.com/X-Projetion/split-files"></a>
+  <a href="https://github.com/X-Projetion/split-files/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+  <a href="https://github.com/X-Projetion/split-files/releases"><img src="https://img.shields.io/github/release/X-Projetion/split-files"></a>
+  <br>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/made%20with-Python-pink.svg"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-pink.svg"></a>
+  <a href="https://github.com/X-Projetion/split-files/issues"><img src="https://img.shields.io/github/issues/X-Projetion/split-files?color=pink"></a>
+</p>
 
 # 0xdirsan
 0xdirsan is a simple program designed to search for directories within the file system using brute-force with a given list of words.
@@ -37,30 +40,41 @@ Follow these steps to install 0xdirsan :
 
 2. **Clone repositori**:
    ```sh
-   pip install -r requirements.txt
+   root@Lutfifakee:~$ pip install -r requirements.txt
     ```
 
 
-## Pypi Installation
-- pip install 0xdirsan
+## Pypi
+- root@Lutfifakee:~$ pip install 0xdirsan
 
 
 ## Usage
-- python 0xdirsan.py -u <TARGET_URL>
+- root@Lutfifakee:~$ python 0xdirsan.py -u <TARGET_URL>
 
 ## Help
 ```bash
-usage: main.py [-h] [-w WORDLIST] -u URL [-t THREADS]
+root@Lutfifakee:~$ xdirsan -h
+
+   ____       ____  _
+  / __ \_  __/ __ \(_)_____________ _____
+ / / / / |/_/ / / / / ___/ ___/ __ `/ __ \
+/ /_/ />  </ /_/ / / /  (__  ) /_/ / / / /
+\____/_/|_/_____/_/_/  /____/\__,_/_/ /_/ v0.1.0
+        https://x-projetion.org/
+
+usage: xdirsan [-h] [-w WORDLIST] [-u URLS] [-f FILE] [-t THREADS] [-v]
 
 0xdirsan is a simple program designed to search for directories in a file system
 
-optional arguments:
+options:
   -h, --help            show this help message and exit
   -w WORDLIST, --wordlist WORDLIST
                         Path to wordlist file
-  -u URL, --url URL     Target URL use http / https
+  -u URLS, --urls URLS  Target URLs separated by comma (e.g. x-projetion.org)
+  -f FILE, --file FILE  File containing target URLs, one per line
   -t THREADS, --threads THREADS
                         Number of threads (default 30)
+  -v, --version         Show version
 ```
 ### Connect with me:
 
