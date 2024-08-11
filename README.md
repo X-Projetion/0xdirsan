@@ -35,26 +35,21 @@
 ## Installation
 ### Install and run the 0xdirsan script via pip
 ```sh
-- root@Lutfifakee:~$ pip install 0xdirsan
-- root@Lutfifakee:~$ xdirsan
+root@Lutfifakee:~$ pip install 0xdirsan
+root@Lutfifakee:~$ xdirsan
 ```
 
 Follow these steps to install 0xdirsan :
 
 1. **Clone repositori**:
    ```sh
-    git clone https://github.com/X-Projetion/0xdirsan.git
-    cd 0xdirsan
-
+    root@Lutfifakee:~$ git clone https://github.com/X-Projetion/0xdirsan.git
+    root@Lutfifakee:~$ cd 0xdirsan
+    ```
 2. **Clone repositori**:
    ```sh
    root@Lutfifakee:~$ pip install -r requirements.txt
     ```
-
-
-## Pypi
-- root@Lutfifakee:~$ pip install 0xdirsan
-
 
 ## Usage
 - root@Lutfifakee:~$ python 0xdirsan.py -u <TARGET_URL>
@@ -91,7 +86,7 @@ options:
 - **Instagram:** [@lutfifakee](https://www.instagram.com/lutfifakee/)
   
 ## Disclaimer
-Please note that 0xdirsan is provided for educational purposes only. Use of this program for unethical or illegal activities is not recommended. The developer is not responsible for any actions taken by users.
+0xdirsan is provided for educational purposes only. Use of this program for illegal or unethical activities is not recommended. The developer is not responsible for any actions taken by users.
 
 <br>
 <p>0xdirsan was developed by X-Projetion, a software developer with a focus on security and penetration testing. You can visit the website <a href="https://x-projetion.org/">X-Projetion.org</a> for more information or follow <a href="https://www.instagram. com/lutfifakee/">Instagram</a> X-Projetion for the latest updates.</p>
