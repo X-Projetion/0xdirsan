@@ -35,8 +35,8 @@
 ## Installation
 ### Install and run the 0xdirsan script via pip
 ```sh
-pip install 0xdirsan
-xdirsan
+- root@Lutfifakee:~$ pip install 0xdirsan
+- root@Lutfifakee:~$ xdirsan
 ```
 
 Follow these steps to install 0xdirsan :
