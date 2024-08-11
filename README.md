@@ -22,15 +22,23 @@
 </p>
 
 ## 0xdirsan
-0xdirsan is a simple program designed to search for directories within the file system using brute-force with a given list of words.
+0xdirsan is a simple program designed to perform directory searches in a file system using a brute-force method with a given list of words. This program is intended for security testing and can be used by security researchers to discover hidden directories and files on web servers.
 
 ## Feature
-- Uses multiple threads to speed up the search process.
-- Displays HTTP code status and related information for each request.
-- Support for custom word lists and configurable number of threads.
+- Brute-Force Based Search: 0xdirsan uses brute-force techniques to try different combinations of paths based on the provided word list, helping to uncover directories that might otherwise be invisible.
+- Use of Multi-Threading: This program supports the use of multiple threads to speed up the search process, thereby increasing efficiency and reducing the time required to find a directory.
+- HTTP Status Information: Each request will display the HTTP status code and other related information, so that users can know whether the directory they are looking for exists or not.
+- Custom Word List Support: Users can provide their own word lists, allowing flexibility in searches.
+- Simple User Interface: With the use of command line arguments, 0xdirsan is easy to use by anyone, even those new to the tool.
 
 
 ## Installation
+### Install and run the 0xdirsan script via pip
+```sh
+pip install 0xdirsan
+xdirsan
+```
+
 Follow these steps to install 0xdirsan :
 
 1. **Clone repositori**:
