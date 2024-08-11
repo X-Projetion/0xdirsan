@@ -20,7 +20,8 @@
   <a href="#disclaimer">Disclaimer</a> •
   <a href="#license">License</a>
 </p>
-# 0xdirsan
+
+## 0xdirsan
 0xdirsan is a simple program designed to search for directories within the file system using brute-force with a given list of words.
 
 ## Feature
